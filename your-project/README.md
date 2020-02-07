@@ -1,50 +1,41 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Effect of Mass Shootings on Youtube Habits in the US
+This project was developed by [Ana Frias] (https://github.com/anafrs), [Elvira Hänni] (https://github.com/ElviraHae) and [Filipe Koch] (https://github.com/fckoch) for the Ironhack Data Analysis bootcamp, January 2020.
+Below you can find some information about the project and its context.
 
-*[Your Cohort, Campus & Date]*
 
 ## Content
-- [Project Description](#project-description)
-- [Hypotheses / Questions](#hypotheses-/-questions)
-- [Dataset](#dataset)
-- [Workflow](#workflow)
-- [Organization](#organization)
-- [Links](#links)
+1. Project Description and Questions
+2. Datas
+3. Conclusions
+4. Further questions
 
-<a name="project-description"></a>
 
-## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+## Project Description and Questions
+This project aims to analyse whether US Youtube habits change on the days where a mass shooting occured.
+ Thus, the project answers the following questions: 
 
-<a name="hypotheses-/-questions"></a>
+- Do people in the US watch other youtube videos on a mass shooting day?
+- Which videos do they watch more? less?
 
-## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+Requirements:
 
-<a name="dataset"></a>
+For this project, all the relevant data had to be found from Kaggle and enriched it by connecting to an API or scraped data from the web.
+
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
+- Dates and Deaths of Mass Shootings in the US (Source: Wikipedia; scraped on 6.2.2020 from https://en.wikipedia.org/wiki/List_of_mass_shootings_in_the_United_States)
+- Trending YouTube Video Statistics: Daily statistics for trending YoutTube videos (Source: Kaggle, 5.2.200 https://www.kaggle.com/datasnaek/youtube-new/data#USvideos.csv)
+-Youtube Categories (Source: kaggle, see above)
 
-[Dataset]() 
 
-<a name="workflow"></a>
+## Conclusion
+Yes, mass shootings have an effect on US youtube habits: people watch in average more videos on news and politics on mass shooting days, and also videos with pets & animals
 
-## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
 
-<a name="organization"></a>
 
-## Organization
-How did you organize yourself? Did you use any tools?
+## Further Questions
+- Do US people watch more or less videos in total on a day with mass shooting?
+- How long do these habits changes last for?
 
-<a name="links"></a>
-
-## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
